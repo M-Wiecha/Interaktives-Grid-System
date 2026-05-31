@@ -31,7 +31,7 @@ Lade dieses Repository herunter und öffne die `index.html` in deinem Texteditor
 ## 🌐 Live-Demo
 
 Schau dir das Grid-Labor direkt live im Browser an:
-👉 **[HIER DEINEN GITHUB-PAGES-LINK EINFÜGEN]**
+👉 <a href="https://m-wiecha.github.io/Interaktives-Grid-System/" target="_blank" rel="noopener noreferrer">Hier geht's zur Live-Demo</a> 🚀
 
 ---
 
